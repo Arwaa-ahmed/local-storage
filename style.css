@@ -1,0 +1,17 @@
+div{
+    width: 85px;
+    height: 85px;
+    cursor: pointer;
+}
+#red{
+    background-color: rgb(216, 47, 47);
+}
+#yellow{
+    background-color: rgb(255, 255, 95);
+}
+#green{
+    background-color: rgb(59, 141, 59);
+}
+#blue{
+    background-color: rgb(61, 61, 221);
+}
